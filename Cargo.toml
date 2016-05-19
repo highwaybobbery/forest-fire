@@ -1,7 +1,8 @@
 [package]
 name = "forest_fire"
 version = "0.1.0"
-authors = ["Alex Berry <highwaybobbery@gmail.com>"]
+authors = ["musou <musou@musou.co.uk>"]
 
 [dependencies]
 rand="0.3.0"
+ansi_term="0.7.2"
